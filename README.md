@@ -3,12 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Abdelrahman&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner" width="100%" />
 </div>
 
-<!-- ANIMATED TYPING HEADER -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Hi,+I'm+Abdelrahman+👋;Computer+Science+Student;Android+Developer;Software+Engineer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
-  </a>
-</div>
+
 
 <br/>
 
@@ -57,9 +52,7 @@
 ### 📈 GitHub Stats
 
 <!-- GITHUB STATS: These will update automatically based on your activity. The 'tokyonight' theme matches the dark aesthetic perfectly. -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelrhman843&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Abdelrahman's GitHub Stats" />
-</div>
+
 <br/>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhman843&theme=tokyonight&hide_border=true&background=0D1117" alt="Abdelrahman's GitHub Streak" />
